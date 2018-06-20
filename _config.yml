@@ -1,1 +1,4 @@
+# https://github.com/pages-themes/slate
 theme: jekyll-theme-slate
+title: Ultralisp.org
+description: A fast-moving Common Lisp software distribution.
