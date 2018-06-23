@@ -9,5 +9,5 @@ quickdist or weblocks from this repository.
 To use it, open your Lisp REPL and eval:
 
 ```lisp
-(ql-dist:install-dist "https://dist.ultralisp.org/" :prompt nil)
+(ql-dist:install-dist "http://dist.ultralisp.org/" :prompt nil)
 ```
